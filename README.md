@@ -1,13 +1,13 @@
 # self.learning.snake.game
 Developed an intelligent Snake game  using reinforcement learning techniques.
-#How To Play and see Neural Network in action
+# How To Play and see Neural Network in action
 * Step 1: Download all file's and save accordingly in a file named snake pygame.
 * Step 2: Open new terminal at folder .
 * Step 3: Write "conda activate pygame_env" in terminal .
 * Step 4: Write "python agent.py" in terminal .
 * Step 5: Launch and see reinforcement learning in work .
 
-#Steps Envolved 
+# Steps Envolved 
 * Step 1: Importing Necessary Libraries
     * Import the required libraries, including torch (PyTorch), random, numpy, deque, and modules specific to your Snake game.
 * Step 2: Defining Constants and Hyperparameters
